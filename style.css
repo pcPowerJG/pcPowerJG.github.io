@@ -1,7 +1,24 @@
 
+body {
+	background-color: black;
+	color: white;
+}
+
 .grey{
 	color: grey;
 }
 .black{
 	color: black;
+}
+.mrgnd{
+	margin-top: 1%;
+	font-size: 150%;
+	color: grey;
+}
+.mrgnd:hover{
+	color: white;
+}
+.des{
+	font-size: 130%;
+	margin-top: 15%;
 }
