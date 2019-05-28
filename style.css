@@ -1,7 +1,12 @@
 
 body {
 	background-color: black;
+	background-image: url("img/oboi-zemlya-planeta-chernyj-fon-kosmos.jpg");
 	color: white;
+	background-repeat: no-repeat;
+	background-size: 100%;
+	background-attachment: fixed;
+	background-position-y: center;
 }
 
 .grey{
@@ -24,9 +29,12 @@ body {
 .mrgnd:hover{
 	color: white;
 }
+.text{
+	color: white;
+}
 .des{
 	font-size: 130%;
-	margin-top: 15%;
+	margin-top: 12%;
 }
 
 .so h2 {
