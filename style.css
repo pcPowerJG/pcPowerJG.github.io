@@ -10,6 +10,12 @@ body {
 .black{
 	color: black;
 }
+.nav-b-a{
+	color: white;
+}
+.nav-b-a:hover{
+	color: black;
+}
 .mrgnd{
 	margin-top: 1%;
 	font-size: 150%;
